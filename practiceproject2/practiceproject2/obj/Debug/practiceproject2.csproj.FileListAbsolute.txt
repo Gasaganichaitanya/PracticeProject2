@@ -1,0 +1,7 @@
+D:\mphasis\practiceproject\practiceproject2\practiceproject2\practiceproject2\bin\Debug\practiceproject2.exe.config
+D:\mphasis\practiceproject\practiceproject2\practiceproject2\practiceproject2\bin\Debug\practiceproject2.exe
+D:\mphasis\practiceproject\practiceproject2\practiceproject2\practiceproject2\bin\Debug\practiceproject2.pdb
+D:\mphasis\practiceproject\practiceproject2\practiceproject2\practiceproject2\obj\Debug\practiceproject2.csproj.AssemblyReference.cache
+D:\mphasis\practiceproject\practiceproject2\practiceproject2\practiceproject2\obj\Debug\practiceproject2.csproj.CoreCompileInputs.cache
+D:\mphasis\practiceproject\practiceproject2\practiceproject2\practiceproject2\obj\Debug\practiceproject2.exe
+D:\mphasis\practiceproject\practiceproject2\practiceproject2\practiceproject2\obj\Debug\practiceproject2.pdb

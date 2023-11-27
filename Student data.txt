@@ -1,0 +1,11 @@
+Student data Rainbow Schools
+Student1 Name:Sushanth
+Class: 9
+Grade:A
+
+Student2 Name:sai
+Class: 9
+Grade:B
+Student Name:Ravi
+Class: 9
+Grade:A
